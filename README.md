@@ -1,4 +1,6 @@
 # Expense-Tracker
+ track financial activity efficiently. Its simple design makes it lightweight, straightforward and very easy to use.
+
 
 ![First Screen of App](/images/Secondjavafx1.PNG)
 
