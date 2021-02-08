@@ -4,6 +4,7 @@ A Simple Expense-Tracker To Track Financial Activity Efficiently. Its simple des
 
 ![Expense_Tracker first Three Tabs](/images/Expense_Tracker.png)
 
+## Quick Glance
 
 - Total Spending by Category, Total Saving and Total Spending. 
 - All Transaction history with Category,Date and spent Money.
