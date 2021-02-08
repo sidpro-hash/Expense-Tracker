@@ -1,0 +1,19 @@
+.table-vie {
+    -fx-base: #353839;
+    -fx-control-inner-background: #353839;
+    -fx-background-color: #353839;
+    -fx-font-size:14px;
+    -fx-table-cell-border-color: #353839;
+    -fx-table-header-border-color: transparent;
+    -fx-font-family:Helvetica;
+}
+.table-vie .table-column{
+	-fx-alignment:CENTER;
+}
+.table-vie .column-header-background {
+    -fx-background-color: transparent;
+}
+.table-vie:focused .table-row-cell:filled:focused:selected {
+    -fx-background-color: #353839;
+    -fx-table-cell-border-color: transparent;
+}

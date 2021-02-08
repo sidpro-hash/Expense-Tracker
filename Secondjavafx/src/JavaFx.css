@@ -1,0 +1,76 @@
+.Basescene-button{
+	-fx-font-size:14;
+	-fx-background-color: #353839;
+	-fx-text-fill:white;
+	-fx-border-color:white;
+	-fx-border-radius:5px;
+}
+.Basescene-button:hover{
+	-fx-cursor:hand;
+}
+.Expensescene-button{
+	-fx-border-color:black rgb(252,223,169) black rgb(252,223,169);
+	-fx-border-width:1px;
+	-fx-border-radius:0px;
+	-fx-border-insets:0 0 -1 0;
+	-fx-padding:2px 10px 2px 10px;
+	-fx-font-family:Courier;
+	-fx-font-size:18px;
+	-fx-text-fill:black;
+	-fx-font-weight:lighter;
+	-fx-background-color:rgb(252,223,169);
+}
+.Expensescene-button:hover{
+	-fx-cursor:hand;
+}
+.background-color{
+	-fx-background-color: #353839;
+}
+.tb-pane{
+	-fx-background-insets:0, 0 0 1 0;
+	-fx-padding:-1 -2 -2 0;
+}
+.tab-sett{
+	-fx-background-color: rgb(252,223,169);
+	-fx-text-base-color:black;
+	-fx-font-size:14;
+	-fx-focus-color:transparent;
+	-fx-font-weight:bold;
+}
+.tab-sett:selected{
+	-fx-text-base-color:rgb(84,61,17);
+	-fx-border-width:0px 0px 2px 0px;
+	-fx-border-color:rgb(252,223,169) rgb(252,223,169) black rgb(252,223,169);
+}
+.back-button{
+	-fx-background-color:rgb(84,61,17);
+	-fx-font-family:Courier;
+	-fx-font-size:18px;
+	-fx-text-fill:white;
+	-fx-font-weight:bold;
+}
+.back-button:hover{
+	-fx-cursor:hand;
+}
+.table-view{
+	-fx-background-color:transparent;
+}
+.table-view:focused{
+	-fx-background-color:transparent;
+}
+.label-entry{
+	-fx-font-size:16px;
+	-fx-font-weight:bold;
+}
+.transaction-label{
+	-fx-alignment:CENTER;
+	-fx-text-fill:white;
+	-fx-font-size:18px;
+	-fx-background-color:#262626;
+	-fx-margin:20px 0 20px 0;
+}
+.Pie-chart{
+	-fx-max-width:400;
+	-fx-text-base-color:white;
+	-fx-font-size:14px;
+}
