@@ -7,6 +7,6 @@ A Simple Expense-Tracker To Track Financial Activity Efficiently. Its simple des
 - Add Expenditure Details 
 - MySQL local Database with XAMPP  
 
-![Expense_Tracker first Three Tabs](/images/Expense_Tracker.PNG)
+![Expense_Tracker first Three Tabs](/images/Expense_Tracker.png)
 
 
